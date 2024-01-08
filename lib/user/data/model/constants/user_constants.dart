@@ -1,0 +1,1 @@
+const String KEY_USER_ID = "KEY_USER_ID";

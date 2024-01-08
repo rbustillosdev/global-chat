@@ -1,0 +1,1 @@
+const String chatPattern = "assets/images/hello_pattern_by_freepik.png";

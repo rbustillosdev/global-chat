@@ -1,0 +1,2 @@
+const String privacyPolicy = "https://rbustillos.dev/global-chat-privacy.html";
+const String freepikImage = "https://www.freepik.com/free-vector/hello-word-pattern-different-languages_2776323.htm#page=2&query=chat%20pattern&position=41&from_view=search&track=ais&uuid=3bf26764-4d4a-42b4-be2a-c7179b21753d";
